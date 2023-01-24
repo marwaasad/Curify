@@ -1,16 +1,16 @@
-# curify
+# Curify: Your Caution & Cure
+<div align="center">
+<img src="https://github.com/marwaasad/Curify/blob/main/curify_logo2.jpeg" width="150" height="150"/>
+<img src="https://github.com/marwaasad/Curify/blob/main/curify_logo1.jpeg" width="150" height="150"/>
+</div>
 
-A new Flutter project.
+### Curify is an efficient and organized appointment scheduling app to avoid unexpected barriers to avail medical attention from doctors. ###
+- Flutter & Firebase are used to develop the application.
+- *Project Supervisor:* Dr. Periyanayagi
+---
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Team members:-*
+1) Shireen Jain
+2) Marwa Asad
+3) Shashank Dixit
+4) Sunandini Chakrabarty
